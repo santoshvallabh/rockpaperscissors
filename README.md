@@ -1,2 +1,2 @@
 # rockpaperscissors
-Rock Paper Scieccors Project
+Rock Paper Scissors Project

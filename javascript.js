@@ -97,7 +97,7 @@ function game(playRoundResult) {
         currentScore = updateScore("Player");
         divResult.textContent = displayText;
         checkWinner(currentScore, "Player")
-    }
+    } else divResult.textContent = displayText;
     
 
   //  console.log(displayText);
